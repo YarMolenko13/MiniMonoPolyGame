@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#EA3D3D</color>
+    <color name="blue">#0B70EC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000</color>
+
+    <color name="jail">#696767</color>
+
+    <color name="city_sector_0">#E0B611</color>
+    <color name="city_sector_1">#1CC72E</color>
+    <color name="city_sector_2">#1C71C7</color>
+    <color name="city_sector_3">#D04813</color>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MiniMonoPoly</string>
+    <string name="logo_name">Мини понополия</string>
+    <string name="start">Играть</string>
+    <string name="move">Сделать ход</string>
+    
+    <string name="forward">Вперед</string>
+    <string name="jail">Тюрьма</string>
+
+    <string name="city_0">Сергиев Пасад</string>
+    <string name="price_0">450 $</string>
+
+    <string name="city_1">Королев</string>
+    <string name="price_1">450 $</string>
+
+    <string name="city_2">Москва</string>
+    <string name="price_2">920 $</string>
+
+    <string name="city_3">Хабаровск</string>
+    <string name="price_3">620 $</string>
+
+    <string name="city_4">Якутск</string>
+    <string name="price_4">550 $</string>
+
+    <string name="city_5">Сочи</string>
+    <string name="price_5">840 $</string>
+
+    <string name="city_6">Краснодар</string>
+    <string name="price_6">530 $</string>
+
+    <string name="city_7">Армавир</string>
+    <string name="price_7">380 $</string>
+
+    <string name="city_8">Казань</string>
+    <string name="price_8">750 $</string>
+
+    <string name="city_9">Ростов</string>
+    <string name="price_9">420 $</string>
+
+</resources>
